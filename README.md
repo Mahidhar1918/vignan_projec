@@ -6,3 +6,8 @@ A data structure is a particular way of organizing data in a computer so that it
 [githubprofile](https://mahidhar1918.github.io)
 
 ![pic](https://assets.thehansindia.com/h-upload/feeds/2019/07/04/192694-vignan-educational-institut.jpg)
+
+#table
+|Name,|Roll number|Branch|
+|-----|----------|-----|
+|mahi|19L31A05K1|CSE|
